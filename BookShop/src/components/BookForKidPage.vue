@@ -2,6 +2,16 @@
 //  import FeaturedProduct from './FeaturedPage.vue'
 </script>
 <template>
+    <!-- Header-->
+    <header class="bg-dark py-4">
+        <div class="container px-4 px-lg-5 my-4">
+            <div class="text-center text-white">
+                <h1 class="display-4 fw-bolder">Welcome to Book Shope</h1>
+                <p class="lead fw-normal text-white-50 mb-0">Sale book online</p>
+            </div>
+        </div>
+    </header>
+    <!-- Section-->
     <section class="py-4">
         <div class="container px-1 px-lg-4 mt-6">
             <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
