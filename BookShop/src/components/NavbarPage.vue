@@ -38,7 +38,7 @@ import { RouterLink, RouterView } from 'vue-router'
             </a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="#"><router-link to="/Book1">Book for kid</router-link></a></li>
-              <li><a class="dropdown-item" href="#"><router-link to="/Book2">Book 2</router-link></a></li>
+              <li><a class="dropdown-item" href="#"><router-link to="/Book2">Book drama</router-link></a></li>
               <li>
                 <hr class="dropdown-divider">
               </li>

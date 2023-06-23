@@ -10,7 +10,7 @@
                         <!-- Product image-->
                         <!-- <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." /> -->
                         <img class="card-img-top"
-                            src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4302-0032-1?as=webp"
+                            src="https://www.splashlearn.com/blog/wp-content/uploads/2022/01/up-in-the-air.png"
                             alt="..." height="300" />
                         <!-- Product details-->
                         <div class="card-body p-2">
@@ -34,7 +34,7 @@
                         </div>
                         <!-- Product image-->
                         <img class="card-img-top"
-                            src="https://images.manning.com/360/480/resize/book/2/7dbf42d-9edc-4613-bc57-111b429cc312/Wexler-NodeJS_hires.png"
+                            src="https://www.splashlearn.com/blog/wp-content/uploads/2022/01/up-in-the-air.png"
                             alt="..." height="300" />
                         <!-- Product details-->
                         <div class="card-body p-2">
@@ -67,7 +67,7 @@
                         </div>
                         <!-- Product image-->
                         <img class="card-img-top"
-                            src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+22986637_140.jpg?allowDefault=false&client=WorldcatOrgUI"
+                            src="https://www.splashlearn.com/blog/wp-content/uploads/2022/01/up-in-the-air.png"
                             alt="..." height="300" />
                         <!-- Product details-->
                         <div class="card-body p-2">
@@ -89,7 +89,7 @@
                     <div class="card h-100">
                         <!-- Product image-->
                         <img class="card-img-top"
-                            src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-0917-2?as=webp"
+                            src="https://www.splashlearn.com/blog/wp-content/uploads/2022/01/up-in-the-air.png"
                             alt="..." height="300" />
                         <!-- Product details-->
                         <div class="card-body p-2">
@@ -118,7 +118,7 @@
                     <div class="card h-100">
                         <!-- Product image-->
                         <img class="card-img-top"
-                            src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-0917-2?as=webp"
+                            src="https://www.splashlearn.com/blog/wp-content/uploads/2022/01/up-in-the-air.png"
                             alt="..." height="300" />
                         <!-- Product details-->
                         <div class="card-body p-2">
@@ -150,7 +150,7 @@
                         </div>
                         <!-- Product image-->
                         <img class="card-img-top"
-                            src="https://d2sofvawe08yqg.cloudfront.net/tutorial-for-node-js/s_hero?1620647939" alt="..."
+                            src="https://www.splashlearn.com/blog/wp-content/uploads/2022/01/up-in-the-air.png" alt="..."
                             height="300" />
                         <!-- Product details-->
                         <div class="card-body p-2">
@@ -175,7 +175,7 @@
                         </div>
                         <!-- Product image-->
                         <img class="card-img-top"
-                            src="https://d2sofvawe08yqg.cloudfront.net/tutorial-for-node-js/s_hero?1620647939" alt="..."
+                            src="https://www.splashlearn.com/blog/wp-content/uploads/2022/01/up-in-the-air.png" alt="..."
                             height="300" />
                         <!-- Product details-->
                         <div class="card-body p-2">
@@ -198,7 +198,7 @@
                         <!-- Product image-->
                         <!-- <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." /> -->
                         <img class="card-img-top"
-                            src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4302-0032-1?as=webp"
+                            src="https://www.splashlearn.com/blog/wp-content/uploads/2022/01/up-in-the-air.png"
                             alt="..." height="300" />
                         <!-- Product details-->
                         <div class="card-body p-2">

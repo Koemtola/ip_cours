@@ -3,6 +3,9 @@ import HomePage from '../views/HomeView.vue'
 import LogoView from '../views/LogoView.vue'
 import Book1 from '../views/Book1View.vue'
 import Book2 from '../views/Book2View.vue'
+import Contact from '../views/ContactView.vue'
+import About from '../views/AboutView.vue'
+// import AboutPage from '../views/LoginView.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -33,6 +36,16 @@ const router = createRouter({
       path: '/Book2',
       name: 'Book2',
       component: Book2
+    },
+    {
+      path: '/Contact',
+      name: 'Contact',
+      component: Contact
+    },
+    {
+      path: '/About',
+      name: 'About',
+      component: About
     }
   ]
 })
