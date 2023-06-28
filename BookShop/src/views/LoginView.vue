@@ -1,9 +1,9 @@
 <script setup>
-  import AboutPage from '../components/LoginPage.vue'
+  import LoginForm from '../components/LoginForm.vue'
 </script>
 <template>
   <div class="about">
-    <AboutPage/>    
+    <LoginForm/>    
   </div>
 </template>
 
