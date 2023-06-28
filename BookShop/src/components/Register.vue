@@ -1,5 +1,5 @@
-<template>
-    <div>
+<!-- <template>
+    <div class="">
       <h1>Register</h1>
       <RegistrationForm />
     </div>
@@ -14,4 +14,4 @@
       RegistrationForm
     }
   };
-  </script>
+  </script> -->

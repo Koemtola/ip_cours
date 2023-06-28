@@ -1,11 +1,16 @@
 <template>
+  <div class=" container w-50 " style="background: rgb(255, 255, 255); border-radius: 5px;">
+
     <form @submit.prevent="handleSubmit">
+      <h1 class=" text-center">Login</h1>
       <div v-for="field in fields" :key="field.name">
-        <label :for="field.name">{{ field.label }}</label>
-        <input :type="field.type" :name="field.name" :required="field.required" v-model="formData[field.name]">
+        <label :for="field.name" >{{ field.label }} </label>
+        <input :type="field.type" :name="field.name" :required="field.required" v-model="formData[field.name]"  style="padding: 10px; width: 100%; border-radius: 5px;border-color: rgb(232, 232, 232);">
       </div>
-      <button type="submit">Login</button>
+      <button type="submit" class=" p-2 mt-2  mb-2" style="border-radius: 5px;  ">Login</button>
+
     </form>
+  </div>
   </template>
   
   <script>
@@ -27,6 +32,7 @@
           return;
         }
         alert('Login successful!');
+        this.$router.push('/')
         this.formData = {};
       }
     }

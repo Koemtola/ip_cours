@@ -28,12 +28,12 @@ import { RouterLink, RouterView } from 'vue-router'
           <li class="nav-item">
             <router-link to="/Contact" class="nav-link text-white">Contact</router-link>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <router-link to="/register" class="nav-link text-white">register</router-link>
           </li>
           <li class="nav-item">
             <router-link to="/login" class="nav-link text-white">login</router-link>
-          </li>
+          </li> -->
           <!-- <li class="nav-item">
                         <a class="nav-link" href="#">Link</a>
                     </li> -->
@@ -59,13 +59,19 @@ import { RouterLink, RouterView } from 'vue-router'
           <input class="form-control me-2 " type="search" placeholder="Search" aria-label="Search">
           <button class="btn btn-outline-light " type="submit">Search</button>
         </form>
-        <div class="text-white">
+        <!-- <div class="text-white">
           <a class="navbar-brand" href="#">
             <RouterLink to="/logo">
               <img src="../components/icons/logoBookshop.png" alt="Imagessfsfs" width="80"
                 class="d-inline-block align-text-top" />
             </RouterLink>
           </a>
+        </div> -->
+        <div>
+          <router-link to="/register" class="nav-link text-white  p-2 mt-2  mb-2" style="border-radius: 5px;  ">SignUp</router-link>
+        </div>
+        <div>
+          <router-link to="/login" class="nav-link text-white  ">SigIn</router-link>
         </div>
       </div>
     </div>
