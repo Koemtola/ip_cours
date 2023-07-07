@@ -5,6 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/bookshop/',
   plugins: [vue()],
   resolve: {
     alias: {
@@ -13,12 +14,12 @@ export default defineConfig({
   }
 
 })
-module.exports = {
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/ip_cours/'
-    : '/',
+// module.exports = {
+//   publicPath: process.env.NODE_ENV === 'production'
+//     ? '/ip_cours/'
+//     : '/',
     
-}
+// }
 // vite.config.js
 const vuePlugin = require('@vitejs/plugin-vue')
 
