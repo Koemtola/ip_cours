@@ -20,11 +20,11 @@ export default defineConfig({
 //     : '/',
     
 // }
-// vite.config.js
-const vuePlugin = require('@vitejs/plugin-vue')
+// // vite.config.js
+// const vuePlugin = require('@vitejs/plugin-vue')
 
-module.exports = {
-  plugins: [
-    vuePlugin()
-  ]
-}
+// module.exports = {
+//   plugins: [
+//     vuePlugin()
+//   ]
+// }
